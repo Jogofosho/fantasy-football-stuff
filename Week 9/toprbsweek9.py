@@ -11,4 +11,5 @@ players = ['J. Conner', 'J. Taylor', 'N. Chubb', 'J. Mixon', 'N. Hines', 'A. Kam
 plt.plot(players, actualPoints, 'o', c = 'g', label = 'Actual Points', ms = 6)
 plt.plot(projPoints, 'o', c = 'r', label = 'Projected Points', ms = 6)
 plt.legend()
+plt.grid()
 plt.show()
