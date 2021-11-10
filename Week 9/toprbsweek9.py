@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import figure
 
-figure(figsize=(10, 6), dpi=80)
+figure(figsize=(12, 6), dpi=80)
 
 actualPoints = [37.80, 33.00, 29.30, 25.50, 18.80, 18.40, 16.60, 16.50, 15.30, 15.30]
 projPoints = [10.86, 18.03, 15.01, 12.84, 6.20, 19.30, 11.51, 10.49, 11.39, 17.63]
