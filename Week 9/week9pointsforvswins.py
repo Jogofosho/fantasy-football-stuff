@@ -14,6 +14,7 @@ teams = np.array(["YAF", "TBB", "TJ4U", "FDF", "HN-HF", "SMYT",
 
 plt.scatter(pointsFor, wins, c=colours)
 plt.axis([800,1200,0,8])
+plt.xticks(np.arange(800, 1200, 25))
 plt.title("Week 9, Points Scored vs. Wins")
 plt.xlabel("Points scored")
 plt.ylabel("Wins")
