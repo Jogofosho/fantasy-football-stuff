@@ -12,6 +12,7 @@ for i in range(1,21):
 
 np.picks = np.array(picks)
 
+# Outliers on the lower end of points scored are very likely due to injury
 points2016 = np.array([254.3,246.1,218.4,158.4,176.7,367.8,7.5,257.1,155.0,153.4,
                        84.5,256.2,162.8,309.4,124,175.6,9.3,120.1,126.3,256.1])
 points2017 = np.array([10.0,259.8,207.9,61.5,167.6,189.3,190.2,182.2,110.7,123.1,
