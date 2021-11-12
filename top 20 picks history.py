@@ -1,5 +1,7 @@
 # Historical fantasy football data provided by fantasydata.com
 # Record for TFFE 2016-2020
+# The top 20 picks is an interesting data set since players drafted in this round
+# can't be kept. Consistency, accuracy can maybe correlate to value of the pick
 
 import matplotlib.pyplot as plt
 import numpy as np
