@@ -1,4 +1,4 @@
-# Historial fantasy football data provided by fantasydata.com
+# Historical fantasy football data provided by fantasydata.com
 # Record for TFFE 2016-2020
 
 import matplotlib.pyplot as plt
